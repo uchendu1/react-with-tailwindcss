@@ -1,6 +1,6 @@
 
 import React from 'react'
-import HelloWorld from './Components/HelloWorld'
+import HelloWorld from '../Components/HelloWorld'
 
 
 function Home(){
